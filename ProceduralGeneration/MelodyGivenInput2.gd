@@ -1,6 +1,6 @@
 """
 	------------------------------------------------------------------------------------------------
-	Description: Generates a melody given an input melody, melody should have similar ideas as input
+	Description: Generates a melody given an input melody, melody should have similar ideas as the input
 	By: Jayden Moore
 	Last Updated: 3/26/22
 	------------------------------------------------------------------------------------------------
